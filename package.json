@@ -1,6 +1,6 @@
 {
   "name": "youtube-upload-nodejs",
-  "description": "I am so frustrated.",
+  "description": "YouTube + NodeJS > Programmatic Video Upload",
   "repository": "",
   "version": "1.0.0",
   "license": "MIT",
@@ -13,13 +13,10 @@
     "npm": "1.2.x"
   },
   "dependencies": {
-    "bluebird": "~3.4.7",
-    "sprintf-js": "0.0.7",
     "youtube-api":"2.0.8"
   },
   "devDependencies": {},
   "keywords": [
-    "chrome headless",
-    "keynote"
+    "youtube"
   ]
 }
